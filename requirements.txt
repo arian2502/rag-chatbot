@@ -1,0 +1,10 @@
+streamlit
+langchain>=0.2.0
+langchain-community
+faiss-cpu
+sentence-transformers
+transformers
+torch
+beautifulsoup4
+requests
+tldextract
