@@ -119,9 +119,13 @@ source venv/bin/activate         # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 4. Add Your Documents
+### 4. Add Your Documents and Load Them
 
 Place all PDF or DOCX documents into the `docs/` folder. These will form the knowledge base of your chatbot.
+Load them with
+```
+python data_ingestion.py
+```
 
 ### 5. Build the Vector Index
 
