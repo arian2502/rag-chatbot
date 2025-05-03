@@ -8,3 +8,6 @@ torch
 beautifulsoup4
 requests
 tldextract
+pypdf
+unstructured
+python-docx
